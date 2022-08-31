@@ -15,6 +15,7 @@ I am **Hassan Bashiri**, an assistant professor in the computer engineering depa
 * **Futures Studies**
     - Complex Systems/Social Modeling and Simulation
     - Engineering the Futures, Scenario Based Planning
+    - Artificial Intelligence Governance
 
 * **Information Retreival**
     - Text Mining, Ranking Algorithms, Indexing, Modeling
